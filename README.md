@@ -1,6 +1,6 @@
 # OpenClassrooms-P8-OCPizza
 
-This project concludes the OCPizza case, where we have progressed from functional to technical specifications. 
+This project concludes the OCPizza case, where we have progressed from functional to technical specifications.  
 Now, we will gather all our work and add two important components:
 
 1. Delivery Report:
@@ -13,5 +13,6 @@ With these additions, we ensure a comprehensive documentation of the project's o
 
 Having completed the management projects, we are now ready to dive into the coding projects.
 
-Get ready for the next challenging projects! We'll explore vital concepts like API calls, CoreData, dependency managers, and more. 
+Get ready for the next challenging projects!  
+We'll explore vital concepts like API calls, CoreData, dependency managers, and more.  
 Join me on this learning journey as we level up our iOS development skills. Let's dive in and embrace the excitement of mastering new concepts together!
